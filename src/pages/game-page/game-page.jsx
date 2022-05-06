@@ -22,7 +22,7 @@ export const GamePage = () => {
           ></iframe>
         </div>
         <div className="game-page__right">
-          {/* <GameCovers image={game.image} /> */}
+          <img className="game-page__img" src={game.image} alt="photo" />
           <p>{game.description}</p>
           <p className="secondary-text">Popular tags for this product:</p>
           {game.genres.map((genre) => (

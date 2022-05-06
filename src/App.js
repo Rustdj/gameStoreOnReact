@@ -16,7 +16,7 @@ function App() {
             <Routes>
                 <Route path="/" element={<HomePage />} />
                 <Route path="/app:title" element={<GamePage />} />
-                <Route path="/app:order" element={<OrderPage />} />
+                <Route path="/order" element={<OrderPage />} />
             </Routes>
         </Provider>
       </div>

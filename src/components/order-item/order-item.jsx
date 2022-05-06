@@ -12,7 +12,7 @@ export const OrderItem = ({game}) => {
   return (
     <div className="order-item">
         <div className="order-item__cover">
-            {/* <GameCover image={game.image}/> */}
+            <img src={game.image} alt="" />
         </div>
         <div className="order-page__title">
             <span>{game.title}</span>
