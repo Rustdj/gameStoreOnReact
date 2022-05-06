@@ -17,7 +17,7 @@ export const CartMenu = ({ items, onClick }) => {
                 id={game.id}
               />
             ))
-          : "Корзина пуста"}
+          : "Cart is empty"}
       </div>
       {items.length > 0 ? (
         <div className="cart-menu__arrange">
@@ -26,7 +26,7 @@ export const CartMenu = ({ items, onClick }) => {
             <span>{calcTotalPrice(items)} $</span>
           </div>
           <Button type="primary" size="m" onClick={onClick}>
-            Оформить заказ
+              Checkout order
           </Button>
         </div>
       ) : null}

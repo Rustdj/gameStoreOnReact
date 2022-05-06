@@ -6,56 +6,56 @@ const GAMES = [
     {
         image: require('../game-covers/icon.jpeg'),
         title: 'Forza Horizon 5',
-        genres: ['Гонки', 'Симулятор', 'Открытый мир'],
+        genres: ['Racing', 'Simulator', 'Open world'],
         price: 23,
         video: 'https://www.youtube.com/embed/FYH9n37B7Yw',
         id: 1,
-        description: "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!",
+        description: "An endless kaleidoscope of Horizon adventures awaits you! Take exciting trips through the incredibly beautiful and original world of Mexico behind the wheel of the greatest cars in history. Start your Horizon adventure today by adding the game to your wishlist!",
     },
     {
         image: require('../game-covers/icon1.png'),
         title: 'Battlefield 2042',
-        genres: ['Экшен', 'Шутер', 'Война'],
+        genres: ['Action', 'Shooter', 'War'],
         video: 'https://www.youtube.com/embed/ASzOzrB-a9E',
         price: 22,
         id: 2,
-        description: 'Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий.'
+        description: 'Battlefield™ 2042 — is a first-person shooter that brings the series back to legendary large-scale battles. In a chaotic future, adapt and thrive on ever-changing battlefields with your squad and an arsenal of the latest technology.'
     },
     {
         image: require('../game-covers/icon2.jpg'),
         title: 'Life is Strange True Colors',
-        genres: ['Глубокий сюжет', 'Протагонистка'],
+        genres: ['Deep plot', 'Protagonist'],
         video: 'https://www.youtube.com/embed/b6CkzwVAr0M',
         price: 25,
         id: 3,
-        description: 'Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду.'
+        description: 'Alex Chen hides from everyone his "curse" - the supernatural ability to read the strong emotions of others and influence them. But when her brother dies - allegedly in an accident - Alex uses her to find out the truth'
     },
     {
         image: require('../game-covers/icon3.jpeg'),
         title: 'Grand Theft Auto V',
-        genres: ['Открытый мир', 'Экшен'],
+        genres: ['Open world', 'Action'],
         video: 'https://www.youtube.com/embed/QkkoHAzjnUs',
         price: 11,
         id: 4,
-        description: 'Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.'
+        description: 'Grand Theft Auto V for PC allows players to explore the iconic world of Los Santos and Blaine County in resolutions up to 4k and beyond at 60 frames per second.'
     },
     {
         image: require('../game-covers/icon4.jpeg'),
         title: 'Tom Clancy\'s Rainbow Six® Siege',
         video: 'https://www.youtube.com/embed/6wlvYh0h63k',
-        genres: ['Тактика', 'Шутер'],
+        genres: ['Tactics', 'Shooter'],
         price: 12,
         id: 5,
-        description: 'Tom Clancy\'s Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal.'
+        description: 'Tom Clancy\'s Rainbow Six Siege is the sequel to the acclaimed first-person shooter developed by Ubisoft Montreal.'
     },
     {
         image: require('../game-covers/icon5.jpeg'),
         title: 'Assassin’s Creed Valhalla',
-        genres: ['Паркур', 'РПГ', 'Открытый мир'],
+        genres: ['Parkour', 'RPG', 'Open World'],
         video: 'https://www.youtube.com/embed/ssrNcwxALS4',
         price: 29,
         id: 6,
-        description: 'Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed.'
+        description: 'Assassins Creed Valhalla is a multi-platform action/RPG video game developed by Ubisoft Montreal and published by Ubisoft. It is the twelfth installment in the Assassins Creed series.'
     },
 ]
 
