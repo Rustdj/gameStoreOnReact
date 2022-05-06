@@ -19,7 +19,7 @@ export const OrderPage = () => {
         <div className="order-page__right">
             <div className="order-page__total-price">
                 <span>
-                    {items.length} goods worth { calcTotalPrice(items) }rub.
+                    {items.length} goods worth { calcTotalPrice(items) } rub.
                 </span>
             </div>
         </div>

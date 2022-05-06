@@ -10,6 +10,12 @@
     width: 30%;
 }
 
+.game-page__img {
+    width: 85%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
 .game-page__buy-game {
     display: flex;
     justify-content: flex-end;
