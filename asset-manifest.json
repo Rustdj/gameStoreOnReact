@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gameStoreOnReact/static/css/main.d8fe7e45.css",
-    "main.js": "/gameStoreOnReact/static/js/main.91d5d983.js",
+    "main.js": "/gameStoreOnReact/static/js/main.38f3409a.js",
     "static/js/787.5436d224.chunk.js": "/gameStoreOnReact/static/js/787.5436d224.chunk.js",
     "static/media/icon.jpeg": "/gameStoreOnReact/static/media/icon.0e2dcfe9e5adfce4c481.jpeg",
     "static/media/icon1.png": "/gameStoreOnReact/static/media/icon1.f9a0fe6702599c24aa05.png",
@@ -11,11 +11,11 @@
     "static/media/icon5.jpeg": "/gameStoreOnReact/static/media/icon5.7de9ce326c092b7bbc21.jpeg",
     "index.html": "/gameStoreOnReact/index.html",
     "main.d8fe7e45.css.map": "/gameStoreOnReact/static/css/main.d8fe7e45.css.map",
-    "main.91d5d983.js.map": "/gameStoreOnReact/static/js/main.91d5d983.js.map",
+    "main.38f3409a.js.map": "/gameStoreOnReact/static/js/main.38f3409a.js.map",
     "787.5436d224.chunk.js.map": "/gameStoreOnReact/static/js/787.5436d224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8fe7e45.css",
-    "static/js/main.91d5d983.js"
+    "static/js/main.38f3409a.js"
   ]
 }
