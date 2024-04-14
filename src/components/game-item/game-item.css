@@ -53,3 +53,32 @@
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
+
+/* mediaqueri */
+
+@media screen and (max-width: 426px) {
+    .game-item {
+        text-decoration: none;
+        color: white;
+        width: 174px;
+        height: 225px;
+        background-color: rgb(36, 37, 41);
+        border-radius: 15px;
+        cursor: pointer;
+        position: relative;
+        transition: all 0.4s;
+    }
+    .game-icon {
+        height: 113px;
+        width: 100%;
+        background-size: cover;
+        background-position: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    .game-item:not(:last-child) {
+        margin-right: 0px;
+    }
+}
+
+

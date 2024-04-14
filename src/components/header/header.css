@@ -81,3 +81,23 @@
 .header__cart-btn-wrapper {
     justify-content: flex-end;
 }
+
+
+/* mediaqueri */
+
+@media screen and (max-width: 426px) {
+    .header {
+        height: 115px;
+        display: grid;
+        grid-template-columns: 64vh auto;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .header {
+        grid-template-columns: 54vh auto;
+    }
+}
+
+
+    
